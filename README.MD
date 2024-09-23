@@ -38,6 +38,10 @@ These are the instructions that ycan be used to sort the stack :
 - In case of error, it must display Error followed by a \n on the standard error. Errors include for example: some arguments are not integers, there are duplicates, an instruction do not exist and/or is incorrectly formatted.
 - In case of there are no arguments, the program displays nothing.
 
+## Example
+
+https://github.com/user-attachments/assets/e40374bc-71b6-4b21-ba41-e4cc17cdc03c
+
 ## Usage
 Follow the Steps below:
 1. Write on the terminal:
@@ -76,8 +80,6 @@ ARG="4 67 3 87 23"; ./push-swap "$ARG" | ./checker "$ARG"
 ## AUTHORS
 
 * Fatema Alawadhi
-* Asma Ahmed
-
 
 ## LICENSES
 This program developed within the scope of Reboot.
